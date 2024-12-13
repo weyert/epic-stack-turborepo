@@ -5,6 +5,7 @@
     "prebuild": "turbo run prebuild",
     "build": "turbo build",
     "dev": "turbo dev",
+    "start": "turbo dev",
     "db:seed": "turbo run db:seed --no-cache",
     "lint": "turbo lint",
     "format": "turbo format --continue -- --ignore-path .gitignore",
